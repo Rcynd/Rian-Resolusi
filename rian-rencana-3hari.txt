@@ -1,1 +1,2 @@
 menyelesaikan play list git-github
+  -membuat sebuah project kecil
